@@ -1,4 +1,17 @@
-info-design-lab.github.io
-=========================
+Information Design Lab
+======================
 
-Main repo for info-design-lab.
+Main repo for the Information Design Lab at IDC, IIT Bombay.
+
+Come back soon for more information.
+
+##About this lab
+
+##Projects
+
+##Courses
+
+##People
+
+##Contact
+
