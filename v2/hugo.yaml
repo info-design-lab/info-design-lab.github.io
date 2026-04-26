@@ -41,6 +41,10 @@ menu:
       weight: 6
 
 params:
+  theme:
+    default: light
+    displayToggle: false
+
   navbar:
     displayTitle: true
     displayLogo: false

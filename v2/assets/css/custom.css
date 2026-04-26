@@ -122,6 +122,9 @@ h1[class*="hx:text-center"][class*="hx:text-4xl"][class*="hx:tracking-tight"] {
   color: #ffffff;
   font-size: clamp(1.8rem, 3vw, 2.6rem);
   line-height: 1.2;
+  .hextra-search-wrapper {
+    display: none !important;
+  }
   text-shadow: 0 2px 4px rgba(0, 0, 0, 0.2); /* Added slight depth for the header */
 }
 
@@ -169,12 +172,14 @@ h1[class*="hx:text-center"][class*="hx:text-4xl"][class*="hx:tracking-tight"] {
     padding: 1.5rem 1rem;
     margin-bottom: 1.25rem;
   }
-  [role="tablist"] {
-    border-bottom: 0 !important;
-  }
+
 }
 
 /* Hextra tabs */
+.hextra-theme-toggle {
+  display: none !important;
+}
+
 .hextra-tabs-toggle {
   color: #5d4037 !important;
   border-bottom-color: transparent !important;

@@ -1,5 +1,12 @@
 <script>
 (function () {
+  try {
+    localStorage.setItem('theme', 'light');
+  } catch (error) {}
+
+  document.documentElement.classList.remove('dark');
+  document.documentElement.style.colorScheme = 'light';
+
   var tabMap = {
     '#projects': 'Projects',
     '#papers': 'Papers',
