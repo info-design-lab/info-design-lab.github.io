@@ -45,6 +45,9 @@ params:
     default: light
     displayToggle: false
 
+  search:
+    enable: false
+
   navbar:
     displayTitle: true
     displayLogo: false

@@ -172,6 +172,14 @@ h1[class*="hx:text-center"][class*="hx:text-4xl"][class*="hx:tracking-tight"] {
     padding: 1.5rem 1rem;
     margin-bottom: 1.25rem;
   }
+  .hextra-sidebar-container .hextra-search-wrapper,
+  .hextra-sidebar-container .hextra-search-input {
+    display: none !important;
+  }
+  .hextra-sidebar-container .hextra-search-wrapper + * {
+    padding-top: 0 !important;
+    margin-top: 0 !important;
+  }
 
 }
 
