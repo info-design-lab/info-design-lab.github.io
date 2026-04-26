@@ -1,0 +1,156 @@
+/* General Layout & Warmer Theme Base */
+body {
+  background-color: #fdfcfb; /* Warm off-white background */
+  color: #3d3a38; /* Warm dark gray text */
+}
+
+.hx-mx-auto {
+  margin-left: 0 !important;
+  margin-right: 0 !important;
+}
+
+.hx-max-w-screen-xl {
+  max-width: min(96vw, 1720px) !important;
+}
+
+.hextra-max-navbar-width,
+.hextra-max-page-width,
+.hextra-max-content-width,
+.hextra-max-footer-width {
+  max-width: none !important;
+}
+
+.hextra-max-page-width {
+  width: 100% !important;
+  padding-left: 1.25rem;
+  padding-right: 1.25rem;
+}
+
+.hextra-max-content-width {
+  width: 100% !important;
+}
+
+
+/* Typography & Links */
+.content p,
+.content li,
+.content dd {
+  line-height: 1.7;
+}
+
+.content a {
+  text-decoration: none !important;
+  color: #6e1a00; 
+  transition: all 0.2s ease-in-out;
+  font-weight: 500;
+  border-bottom: 1px solid transparent; /* Prepare for a subtle hover effect */
+}
+
+.content a:hover {
+  color: #9b1c1c; /* Brightens slightly to match the hero red on hover */
+  text-decoration: none !important;
+  border-bottom: 1px solid #9b1c1c; /* Adds a sophisticated thin underline only on hover */
+}
+
+.content h3 {
+  margin-top: 2.25rem;
+  margin-bottom: 0.8rem;
+  scroll-margin-top: 5rem;
+  color: #5d4037; /* Warm brown for headings */
+}
+
+.content h3:not(:first-of-type) {
+  border-top: 1px solid #eee4da; /* Subtle warm divider */
+  padding-top: 1.6rem;
+}
+
+.content h4 {
+  margin-top: 1.5rem;
+  margin-bottom: 0.5rem;
+  color: #5d4037;
+}
+
+.content dl {
+  margin-top: 0.5rem;
+  margin-bottom: 1.25rem;
+}
+
+.content dt {
+  margin-top: 0.95rem;
+  font-weight: 600;
+}
+
+.content dd {
+  margin-left: 0;
+}
+
+.content > h1:first-child,
+h1[class*="hx:text-center"][class*="hx:text-4xl"][class*="hx:tracking-tight"] {
+  display: none !important;
+}
+
+/* Hero Banner - Warm Palette */
+.hero-banner {
+  /* A gradient from a deep crimson to a dark mahogany */
+  background: #6e1a00; 
+  color: #fff5f5; /* Lightest pinkish-white text for better contrast on red */
+  border-radius: 14px;
+  padding: 2.25rem 1.75rem;
+  margin: 0.25rem 0 1.75rem;
+  text-align: left;
+  box-shadow: 0 4px 20px rgba(155, 28, 28, 0.15); /* Tinted shadow to match the glow */
+}
+
+.hero-banner h1 {
+  margin: 0;
+  color: #ffffff;
+  font-size: clamp(1.8rem, 3vw, 2.6rem);
+  line-height: 1.2;
+  text-shadow: 0 2px 4px rgba(0, 0, 0, 0.2); /* Added slight depth for the header */
+}
+
+.hero-banner p {
+  margin: 0.65rem 0 0;
+  color: #fecaca; /* Very soft light red for the subtext */
+  font-size: 1.02rem;
+}
+
+/* UI Elements */
+.copy-email-btn {
+  margin-left: 0.5rem;
+  border: 1px solid #d7ccc8;
+  background: #fdfaf8;
+  color: #5d4037;
+  border-radius: 0.45rem;
+  padding: 0.15rem 0.55rem;
+  font-size: 0.85rem;
+  cursor: pointer;
+}
+
+.copy-email-btn:hover {
+  background: #efebe9;
+}
+
+.copy-email-status {
+  margin-left: 0.45rem;
+  font-size: 0.85rem;
+  color: #8d6e63;
+}
+
+@media (max-width: 768px) {
+  .hx-max-w-screen-xl {
+    max-width: 100% !important;
+  }
+  .hextra-max-page-width {
+    padding-left: 0.75rem;
+    padding-right: 0.75rem;
+  }
+  .content h3 {
+    margin-top: 1.8rem;
+  }
+  .hero-banner {
+    border-radius: 10px;
+    padding: 1.5rem 1rem;
+    margin-bottom: 1.25rem;
+  }
+}

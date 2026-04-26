@@ -1,0 +1,52 @@
+title: Information Design Lab
+baseURL: "https://info-design-lab.github.io/"
+
+# import hextra as module
+module:
+  imports:
+    - path: github.com/imfing/hextra
+
+markup:
+  # allow raw html
+  goldmark:
+    renderer:
+      unsafe: true
+
+  # enable hextra syntax highlight
+  highlight:
+    noClasses: false
+    copy:
+      enable: true
+      display: hover
+
+menu:
+  main:
+    - name: About
+      url: "/#about"
+      weight: 1
+    - name: Research
+      url: "/#projects"
+      weight: 2
+    - name: Courses
+      url: "/#courses"
+      weight: 3
+    - name: Workshops & Talks
+      url: "/#events"
+      weight: 4
+    - name: People
+      url: "/#people"
+      weight: 5
+
+params:
+  navbar:
+    displayTitle: true
+    displayLogo: false
+    displaySearch: false
+    displayMenu: true
+
+  footer:
+    displayCopyright: false
+    displayPoweredBy: false
+
+  editURL:
+    enable: false
