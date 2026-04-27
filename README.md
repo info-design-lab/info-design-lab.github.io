@@ -1,6 +1,6 @@
 # Information Design Lab Site
 
-This repository contains the Information Design Lab website (https://info-design-lab.github.io) built with Hugo and the Hextra theme. Older legacy root-site files have been preserved in `archive/info-design-lab-site-v1/`.
+This repository contains the Information Design Lab website (https://info-design-lab.github.io) built with Hugo. Older legacy root-site files have been preserved in `archive/info-design-lab-site-v1/`.
 
 ## Structure
 
@@ -12,29 +12,9 @@ This repository contains the Information Design Lab website (https://info-design
 
 ## Adding Content
 
-### Add a page
-
-Create a new Markdown file under `content/`.
-
-Example:
-
-```md
----
-title: "New Page"
----
-
-Page content here.
-```
-
-The page will be available at a URL based on its file name. For example, `content/about.md` becomes `https://info-design-lab.github.io/about/`.
-
-### Add a homepage section
-
-Edit `content/_index.md` and add the new section in Markdown or HTML. Update `hugo.yaml` if the section should be linked from the navbar.
-
 ### Add an article
 
-Create a new file in `content/articles/`.
+Create a new `.md` file in `content/articles/`.
 
 Example:
 
@@ -59,7 +39,40 @@ Articles automatically appear:
 - on the `/articles/` page as previews
 - in the homepage Articles preview section
 
-## Hextra Documentation
+
+### Edit the main page
+
+The main homepage content lives in `content/_index.md`.
+
+Use this file to edit:
+
+- the hero/banner text
+- About, Research & Teaching, Internships, People, and Contact sections
+- homepage-only links and layout content
+
+Changes to `content/_index.md` are published on the site homepage at `https://info-design-lab.github.io/`.
+
+### Add a page
+
+Create a new `.md` file under `content/`.
+
+Example:
+
+```md
+---
+title: "New Page"
+---
+
+Page content here.
+```
+
+The page will be available at a URL based on its file name. For example, `content/about.md` becomes `https://info-design-lab.github.io/about/`.
+
+### Add a homepage section
+
+Edit `content/_index.md` and add the new section in Markdown or HTML. Update `hugo.yaml` if the section should be linked from the navbar.
+
+## Hextra Theme Documentation
 
 Hextra docs: https://imfing.github.io/hextra/docs/
 
