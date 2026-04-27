@@ -1,79 +1,89 @@
-# Hextra Starter Template
+# Information Design Lab Site
 
-[![Deploy Hugo site to Pages](https://github.com/imfing/hextra-starter-template/actions/workflows/pages.yaml/badge.svg)](https://github.com/imfing/hextra-starter-template/actions/workflows/pages.yaml)
-[![Netlify Status](https://api.netlify.com/api/v1/badges/6e83fd88-5ffe-4808-9689-c0f3b100bfe3/deploy-status)](https://app.netlify.com/sites/hextra-starter-template/deploys)
-![Vercel Deployment Status](https://img.shields.io/github/deployments/imfing/hextra-starter-template/production?logo=vercel&logoColor=white&label=vercel&labelColor=black&link=https%3A%2F%2Fhextra-starter-template.vercel.app%2F)
+This repository contains the Information Design Lab website (https://info-design-lab.github.io) built with Hugo and the Hextra theme. Older legacy root-site files have been preserved in `archive/info-design-lab-site-v1/`.
 
+## Structure
 
-🐣 Minimal template for getting started with [Hextra](https://github.com/imfing/hextra)
+- `content/_index.md`: homepage content and homepage sections
+- `content/articles/`: article index and individual article pages
+- `assets/css/custom.css`: site-specific styling
+- `layouts/`: Hugo partials and shortcodes used by the site
+- `.github/workflows/pages.yaml`: GitHub Pages deployment workflow
 
-![hextra-template](https://github.com/imfing/hextra-starter-template/assets/5097752/c403b9a9-a76c-47a6-8466-513d772ef0b7)
+## Adding Content
 
-[🌐 Demo ↗](https://imfing.github.io/hextra-starter-template/)
+### Add a page
 
-## Quick Start
+Create a new Markdown file under `content/`.
 
-Use this template to create your own repository:
+Example:
 
-<img src="https://docs.github.com/assets/cb-77734/mw-1440/images/help/repository/use-this-template-button.webp" width=400 />
+```md
+---
+title: "New Page"
+---
 
-You can also quickly start developing using the following online development environment:
+Page content here.
+```
 
-- [GitHub Codespaces](https://github.com/codespaces)
+The page will be available at a URL based on its file name. For example, `content/about.md` becomes `https://info-design-lab.github.io/about/`.
 
-    [![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/imfing/hextra-starter-template)
+### Add a homepage section
 
-    Create a new codespace and follow the [Local Development](#local-development) to launch the preview
+Edit `content/_index.md` and add the new section in Markdown or HTML. Update `hugo.yaml` if the section should be linked from the navbar.
 
+### Add an article
 
-## Deployment
+Create a new file in `content/articles/`.
 
-### GitHub Pages
+Example:
 
-A GitHub Actions workflow is provided in [`.github/workflows/pages.yaml`](./.github/workflows/pages.yaml) to [publish to GitHub Pages](https://github.blog/changelog/2022-07-27-github-pages-custom-github-actions-workflows-beta/) for free. 
+```md
+---
+title: "Article Title"
+date: 2026-04-27
+summary: "Short summary used in article previews."
+author: "Venkatesh Rajamanickam"
+source: "LinkedIn"
+---
 
-For details, see [Publishing with a custom GitHub Actions workflow](https://docs.github.com/en/pages/getting-started-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site#publishing-with-a-custom-github-actions-workflow).
+{{< article-byline >}}
 
-Note: in the settings, make sure to set the Pages deployment source to **GitHub Actions**:
+<p class="article-read-link"><a href="https://www.linkedin.com/..." target="_blank" rel="noreferrer">Read on LinkedIn</a></p>
 
-<img src="https://github.com/imfing/hextra-starter-template/assets/5097752/99676430-884e-42ab-b901-f6534a0d6eee" width=600 />
+Full article text here.
+```
 
-[Run the workflow manually](https://docs.github.com/en/actions/using-workflows/manually-running-a-workflow) if it's not triggered automatically.
+Articles automatically appear:
 
-### Netlify
+- on the `/articles/` page as previews
+- in the homepage Articles preview section
 
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/imfing/hextra-starter-template)
+## Hextra Documentation
 
-### Vercel
+Hextra docs: https://imfing.github.io/hextra/docs/
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fimfing%2Fhextra-starter-template&env=HUGO_VERSION)
-
-Override the configuration:
-
-<img src="https://github.com/imfing/hextra-starter-template/assets/5097752/e2e3cecd-c884-47ec-b064-14f896fee08d" width=600 />
 
 ## Local Development
 
-Pre-requisites: [Hugo](https://gohugo.io/getting-started/installing/), [Go](https://golang.org/doc/install) and [Git](https://git-scm.com)
+Prerequisites:
 
-```shell
-# Clone the repo
-git clone https://github.com/imfing/hextra-starter-template.git
+- Hugo extended
+- Go
+- Git
 
-# Change directory
-cd hextra-starter-template
+Run locally from the repository root:
 
-# Start the server
+```sh
 hugo mod tidy
 hugo server --logLevel debug --disableFastRender -p 1313
 ```
 
-### Update theme
+Then open `http://localhost:1313`.
 
-```shell
-hugo mod get -u
-hugo mod tidy
+To create a production build locally:
+
+```sh
+hugo
 ```
-
-See [Update modules](https://gohugo.io/hugo-modules/use-modules/#update-modules) for more details.
 
