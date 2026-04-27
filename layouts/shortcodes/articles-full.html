@@ -1,0 +1,16 @@
+{{- $articles := sort (where site.RegularPages "Section" "articles") "Date" "desc" -}}
+
+<div class="articles-full-list">
+  {{- range $articles -}}
+    <article class="article-card article-card-full">
+      {{- with .Params.source }}
+        <p class="article-eyebrow">{{ . }}</p>
+      {{- end }}
+      <h2 class="article-full-title"><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
+      <p class="article-meta">{{ .Date.Format "Jan 2, 2006" }}</p>
+      <div class="article-body">
+        {{ .Content }}
+      </div>
+    </article>
+  {{- end -}}
+</div>
