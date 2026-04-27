@@ -54,9 +54,9 @@ We work in an interdisciplinary, collaborative atmosphere with partners from aca
 	<dt>Tamil Nadu Assembly Elections 2021</dt>
 	<dd>An exploratory <a href="https://info-design-lab.github.io/TN2021/" target="_blank">data story</a> on the 2021 Assembly Elections.</dd>
 	</dl>
-	<details>
+	<details class="tab-expand">
     <br/>
-	<summary>Show all projects</summary>
+	<summary><span>Show all projects</span></summary>
 	<dl>
 	<dt>Neurons</dt>
 	<dd><a href="https://info-design-lab.github.io/neurons/" target="_blank">An interactive comparative digital neuroanatomy.</a></dd>
@@ -120,9 +120,9 @@ We work in an interdisciplinary, collaborative atmosphere with partners from aca
 	<br />Published in Proceedings of the 10th Indian Conference on Human Computer Interaction, IndiaHCI’19, pages 8:1–8:11, New York, NY, USA, 2019. ACM. DOI: <a href="https://doi.org/10.1145/3364183.3364186" target="_blank">https://doi.org/10.1145/3364183.3364186</a>
 	</dd>
 	</dl>
-	<details>
+	<details class="tab-expand">
     <br/>
-	<summary>Show all papers</summary>
+	<summary><span>Show all papers</span></summary>
 	<dl>
 	<dt><a href="https://dl.acm.org/citation.cfm?id=3014366" target="_blank">
 	Designing Data Collection Methods for Applying Learning Analytics in Resource Constrained Schools</a></dt>
@@ -159,8 +159,8 @@ We work in an interdisciplinary, collaborative atmosphere with partners from aca
 	<li>Interaction Design (B.Des), IIT Hyderabad (Spring 2019)</li>
 	</ul>
 
-	<details>
-	<summary>Show all courses</summary>
+	<details class="tab-expand">
+	<summary><span>Show all courses</span></summary>
 	<ul>
 	<li><a href="https://github.com/info-design-lab/DE705-Autumn-2019/issues" target="_blank">DE705 Interactive Data Visualization (M.Des)</a> (Autumn 2019)</li>
 	<li><a href="https://github.com/mapschool/course/issues" target="_blank">DE303 Information Graphics and Visualization (B.Des)</a> (Autumn 2019)</li>
@@ -192,8 +192,8 @@ We work in an interdisciplinary, collaborative atmosphere with partners from aca
 	<li>Course: <a href="transitions" target="_blank">Enhancing User Experience through Effective Transitions</a> at <a href="https://indiahci.org/2018/" target="_blank">India HCI 2018</a> held at Srishti Institute of Art, Design and Technology on 18<sup>th</sup> December, 2018.</li>
 	</ul>
 
-	<details>
-	<summary>Show all workshops & talks</summary>
+	<details class="tab-expand">
+	<summary><span>Show all workshops & talks</span></summary>
 	<ul>
 	<li>Summer School: <a href="https://tcpd.ashoka.edu.in/summer-school/" target="_blank">Trivedi Centre for Political Data</a> at <a href="https://www.ashoka.edu.in/" target="_blank">Ashoka University</a>, July 9 -13, 2018.</li>
 	<li>Workshop: <a href="microinteractions" target="_blank">Microinteractions Toolkit for UI/UX Designers</a> at <a href="http://indiahci2016.org/" target="_blank">India HCI 2016</a> held at IIT Bombay on 7<sup>th</sup> December, 2016.</li>

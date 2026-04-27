@@ -80,6 +80,32 @@ body {
   margin-bottom: 0.75rem;
 }
 
+.content .tab-expand > summary {
+  cursor: pointer;
+}
+
+.content .tab-expand > summary > span {
+  margin-left: 0.4rem;
+  color: #6e1a00;
+  font-weight: 600;
+  text-decoration: underline;
+  text-decoration-color: rgba(110, 26, 0, 0.45);
+  text-underline-offset: 0.18rem;
+  transition: color 0.2s ease, text-decoration-color 0.2s ease, background-color 0.2s ease;
+}
+
+.content .tab-expand > summary:hover > span,
+.content .tab-expand > summary:focus-visible > span {
+  color: #9b1c1c;
+  text-decoration-color: #9b1c1c;
+}
+
+.content .tab-expand > summary:focus-visible {
+  outline: 2px solid rgba(155, 28, 28, 0.25);
+  outline-offset: 0.2rem;
+  border-radius: 0.2rem;
+}
+
 .content dl {
   margin-top: 0.5rem;
   margin-bottom: 1.25rem;
@@ -122,9 +148,6 @@ h1[class*="hx:text-center"][class*="hx:text-4xl"][class*="hx:tracking-tight"] {
   color: #ffffff;
   font-size: clamp(1.8rem, 3vw, 2.6rem);
   line-height: 1.2;
-  .hextra-search-wrapper {
-    display: none !important;
-  }
   text-shadow: 0 2px 4px rgba(0, 0, 0, 0.2); /* Added slight depth for the header */
 }
 
