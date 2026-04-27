@@ -154,7 +154,7 @@ We work in an interdisciplinary, collaborative atmosphere with partners from aca
 
 	<a id="courses"></a>
 	### Courses
-	<ul><li><a href="/courses/DE705-DE303/">DE705 Interactive Data Visualization & DE303 Information Graphics and Visualization</a> (Autumn 2025)</li>
+	<ul><li><a href="/courses/de705-de303/">DE705 Interactive Data Visualization & DE303 Information Graphics and Visualization</a> (Autumn 2025)</li>
 	<li><a href="https://info-design-lab.github.io/ID413-DataViz" target="_blank">ID413 Information Graphics and Data Visualization</a> (Spring 2025)</li>
 	<li>Interaction Design (B.Des), IIT Hyderabad (Spring 2019)</li>
 	</ul>
