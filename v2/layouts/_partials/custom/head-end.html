@@ -29,6 +29,15 @@
     return path.replace(/\/+$/, '') || '/';
   }
 
+  function closeMobileMenu() {
+    var menuButton = document.querySelector('.hextra-hamburger-menu');
+    if (!menuButton) return;
+    if (window.innerWidth >= 768) return;
+    if (menuButton.getAttribute('aria-expanded') !== 'true') return;
+
+    menuButton.click();
+  }
+
   function scrollToHashTarget(hash) {
     if (!hash) return;
     var target = document.getElementById(hash.slice(1));
@@ -79,8 +88,11 @@
       links[i].addEventListener('click', function (event) {
         var url = new URL(this.href, window.location.href);
         var hash = url.hash;
-        if (!tabMap[hash]) return;
         if (normalizePath(url.pathname) !== normalizePath(window.location.pathname)) return;
+
+        closeMobileMenu();
+
+        if (!tabMap[hash]) return;
 
         event.preventDefault();
         if (window.location.hash !== hash) {

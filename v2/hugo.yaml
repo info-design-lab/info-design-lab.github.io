@@ -24,7 +24,7 @@ menu:
     - name: About
       url: "/#about"
       weight: 1
-    - name: Research
+    - name: Projects
       url: "/#projects"
       weight: 2
     - name: Papers
