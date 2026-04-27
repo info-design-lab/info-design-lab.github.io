@@ -3,7 +3,7 @@ title: Articles
 toc: false
 ---
 
-These posts and articles are cross-posted from LinkedIn and archived here natively on the site.
+Archive of posts and articles by Prof. Venkatesh Rajamanickam.
 
 {{< articles-list >}}
 
