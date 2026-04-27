@@ -3,8 +3,11 @@ title: "The Festivalization of Design: A Critique of Spectacle Over Substance"
 date: 2026-04-06
 summary: "Design occupies an already precarious position in the hierarchy of professional disciplines and cannot afford to be cavalier about how it presents itself to the world."
 linkedin_url: "https://www.linkedin.com/pulse/festivalization-design-critique-spectacle-over-venkatesh-rajamanickam-wgcpf/?trackingId=jHpukNhMSs%2ByiQxZkBDY%2FQ%3D%3D"
+author: "Venkatesh Rajamanickam"
 source: "LinkedIn"
 ---
+
+{{< article-byline >}}
 
 <p class="article-read-link"><a href="https://www.linkedin.com/pulse/festivalization-design-critique-spectacle-over-venkatesh-rajamanickam-wgcpf/?trackingId=jHpukNhMSs%2ByiQxZkBDY%2FQ%3D%3D" target="_blank" rel="noreferrer">Read on LinkedIn</a></p>
 

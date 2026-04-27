@@ -230,6 +230,17 @@ body {
   margin-top: 0;
 }
 
+.content .article-byline {
+  margin: 0 0 0.45rem;
+  color: #8d6e63;
+  font-size: 0.95rem;
+}
+
+.content .article-byline-separator {
+  display: inline-block;
+  margin: 0 0.45rem;
+}
+
 .content .article-read-link {
   margin: 0 0 0.95rem;
 }

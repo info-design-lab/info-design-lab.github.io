@@ -2,8 +2,11 @@
 title: "Marketing Masquerading as Design"
 date: 2025-05-27
 summary: "A critique of how automobile design discourse slips into marketing language, obscuring design rationale behind emotional and aspirational vocabulary."
+author: "Venkatesh Rajamanickam"
 source: "LinkedIn"
 ---
+
+{{< article-byline >}}
 
 <p class="article-read-link"><a href="https://www.linkedin.com/posts/venkatesh-rajamanickam-27b19153_marketing-masquerading-as-design-part-1-share-7327592827398356992-KBWZ?utm_source=share&utm_medium=member_desktop&rcm=ACoAAGUPx14BDVhaWglJLLtPALjNDYBdXB1_gQE" target="_blank" rel="noreferrer">Read part 1 on LinkedIn</a> <a href="https://www.linkedin.com/posts/venkatesh-rajamanickam-27b19153_marketing-masquerading-as-design-part-2-activity-7327593199474999296-6bl5?utm_source=share&utm_medium=member_desktop&rcm=ACoAAGUPx14BDVhaWglJLLtPALjNDYBdXB1_gQE" target="_blank" rel="noreferrer">Read part 2 on LinkedIn</a></p>
 

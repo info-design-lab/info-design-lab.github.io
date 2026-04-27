@@ -3,8 +3,11 @@ title: "Raising the Bar: What Design Event Organisers Can Actually Do"
 date: 2026-04-09
 summary: "The critique of design festival culture is not a call for austerity or exclusion. It is an argument for intentionality."
 linkedin_url: "https://www.linkedin.com/pulse/raising-bar-what-design-event-organisers-can-actually-rajamanickam-qq1tf/?trackingId=jHpukNhMSs%2ByiQxZkBDY%2FQ%3D%3D"
+author: "Venkatesh Rajamanickam"
 source: "LinkedIn"
 ---
+
+{{< article-byline >}}
 
 <p class="article-read-link"><a href="https://www.linkedin.com/pulse/raising-bar-what-design-event-organisers-can-actually-rajamanickam-qq1tf/?trackingId=jHpukNhMSs%2ByiQxZkBDY%2FQ%3D%3D" target="_blank" rel="noreferrer">Read on LinkedIn</a></p>
 
