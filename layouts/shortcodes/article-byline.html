@@ -1,0 +1,2 @@
+{{- $author := .Page.Params.author | default "Venkatesh Rajamanickam" -}}
+<p class="article-byline">By {{ $author }}<span class="article-byline-separator">&bull;</span>Posted {{ .Page.Date.Format "Jan 2, 2006" }}</p>
