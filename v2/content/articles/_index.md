@@ -3,7 +3,7 @@ title: Articles
 toc: false
 ---
 
-Archive of posts and articles by Prof. Venkatesh Rajamanickam.
+Archive of posts and articles.
 
 {{< articles-list >}}
 
