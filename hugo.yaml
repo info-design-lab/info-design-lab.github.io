@@ -5,6 +5,21 @@ baseURL: "https://info-design-lab.github.io/"
 module:
   imports:
     - path: github.com/imfing/hextra
+  mounts:
+    - source: assets
+      target: assets
+    - source: content
+      target: content
+    - source: data
+      target: data
+    - source: layouts
+      target: layouts
+    - source: archive/info-design-lab-site-v1/stylesheets
+      target: static/stylesheets
+    - source: archive/info-design-lab-site-v1/javascripts
+      target: static/javascripts
+    - source: archive/info-design-lab-site-v1/images
+      target: static/images
 
 markup:
   # allow raw html
