@@ -249,6 +249,95 @@ main#content:has(.article-read-link) > h1 {
   text-align: left;
 }
 
+main#content:has(.course-hero) > h1 {
+  text-align: left;
+}
+
+.content .course-hero {
+  margin-top: 0.5rem;
+  margin-bottom: 1.4rem;
+  padding: 1.2rem 1.25rem;
+  border: 1px solid #ead9cb;
+  border-radius: 1rem;
+  background: linear-gradient(135deg, #fff7f0 0%, #f7ede5 100%);
+}
+
+.content .course-kicker,
+.content .course-meta {
+  margin: 0;
+}
+
+.content .course-kicker {
+  margin-bottom: 0.45rem;
+  color: #8f4a2b;
+  font-size: 0.82rem;
+  font-weight: 700;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+}
+
+.content .course-meta + .course-meta {
+  margin-top: 0.18rem;
+}
+
+.content .course-link-grid {
+  display: grid;
+  gap: 0.9rem;
+  margin: 1.1rem 0 1.6rem;
+}
+
+.content .course-link-card {
+  display: block;
+  padding: 1rem 1.05rem;
+  border: 1px solid #ead9cb;
+  border-radius: 0.95rem;
+  background: rgba(255, 255, 255, 0.78);
+  border-bottom-color: #ead9cb !important;
+}
+
+.content .course-link-card strong,
+.content .course-link-card span {
+  display: block;
+}
+
+.content .course-link-card span {
+  margin-top: 0.3rem;
+  color: #7b665d;
+}
+
+.content .course-link-card:hover {
+  border-bottom-color: #9b1c1c !important;
+  background: #fffaf7;
+}
+
+.content .course-assessment-list {
+  display: grid;
+  gap: 0.8rem;
+  margin-top: 1rem;
+}
+
+.content .course-assessment-item {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: 1rem;
+  padding: 0.95rem 1rem;
+  border: 1px solid #ead9cb;
+  border-radius: 0.85rem;
+  background: rgba(255, 255, 255, 0.72);
+}
+
+.content .course-assessment-item p {
+  margin: 0;
+}
+
+@media (max-width: 640px) {
+  .content .course-assessment-item {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+}
+
 .content .article-read-link a {
   display: inline-flex;
   align-items: center;
