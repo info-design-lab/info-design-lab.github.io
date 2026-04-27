@@ -154,10 +154,14 @@ We work in an interdisciplinary, collaborative atmosphere with partners from aca
 
 	<a id="courses"></a>
 	### Courses
-
 	<ul><li><a href="https://info-design-lab.github.io/DE705_DE303/" target="_blank">DE705 Interactive Data Visualization & DE303 Information Graphics and Visualization</a> (Autumn 2025)</li>
 	<li><a href="https://info-design-lab.github.io/ID413-DataViz" target="_blank">ID413 Information Graphics and Data Visualization</a> (Spring 2025)</li>
 	<li>Interaction Design (B.Des), IIT Hyderabad (Spring 2019)</li>
+	</ul>
+
+	<details>
+	<summary>Show all courses</summary>
+	<ul>
 	<li><a href="https://github.com/info-design-lab/DE705-Autumn-2019/issues" target="_blank">DE705 Interactive Data Visualization (M.Des)</a> (Autumn 2019)</li>
 	<li><a href="https://github.com/mapschool/course/issues" target="_blank">DE303 Information Graphics and Visualization (B.Des)</a> (Autumn 2019)</li>
 	<li><a href="https://info-design-lab.github.io/ID668-2018-Instructional-Design" target="_blank">ID668 Instructional Design (M.Des)</a> (Spring 2018)</li>
@@ -174,6 +178,7 @@ We work in an interdisciplinary, collaborative atmosphere with partners from aca
 	<li><a href="https://info-design-lab.github.io/NID-info-viz/#info-viz-ii-2014" target="_blank">Information Visualization - II</a> <em>at NID, Bangalore</em> (Fall 2013, Fall 2014)</li>
 	<li><a href="https://info-design-lab.github.io/NID-info-viz/#info-viz-i-2013" target="_blank">Information Visualization - I</a> <em>at NID, Bangalore</em> (Spring 2013)</li>
 	</ul>
+	</details>
 
 	{{< /tab >}}
 
@@ -181,17 +186,25 @@ We work in an interdisciplinary, collaborative atmosphere with partners from aca
 
 	<a id="events"></a>
 	### Workshops & Talks
-	- Workshop: <a href="https://info-design-lab.github.io/AI2Design/" target="_blank">Using AI to Design</a> held at IIT Bombay on 13<sup>th</sup> September, 2025.
-	- Workshop: <a href="ma-dfworkshop" target="_blank">Digital Fabrication Workshop</a> held at IDC School of Design and <a href="https://www.makersasylum.com/" target="_blank">Maker's Asylum</a> from 15<sup>th</sup> - 21<sup>st</sup> February, 2020.
-	- Course: <a href="transitions" target="_blank">Enhancing User Experience through Effective Transitions</a> at <a href="https://indiahci.org/2018/" target="_blank">India HCI 2018</a> held at Srishti Institute of Art, Design and Technology on 18<sup>th</sup> December, 2018.
-	- Summer School: <a href="https://tcpd.ashoka.edu.in/summer-school/" target="_blank">Trivedi Centre for Political Data</a> at <a href="https://www.ashoka.edu.in/" target="_blank">Ashoka University</a>, July 9 -13, 2018.
-	- Workshop: <a href="microinteractions" target="_blank">Microinteractions Toolkit for UI/UX Designers</a> at <a href="http://indiahci2016.org/" target="_blank">India HCI 2016</a> held at IIT Bombay on 7<sup>th</sup> December, 2016.
-	- Digital Media and Design workshop at <a href="https://www.iiitd.ac.in/webstory/dmd">IIIT Delhi</a> on 30<sup>th</sup> July, 2016.
-	- <em>Design Innovation Centre</em> concept development workshop at <a href="http://www.spabhopal.ac.in/" target="_blank">School of Planning and Architecture Bhopal</a> on 15<sup>th</sup> May, 2016.
-	- HCI Workshop at <a href="http://www.iiitdm.ac.in/" target="_blank">IIITDM Kancheepuram</a> on 4<sup>th</sup> & 5<sup>th</sup> March, 2016.
-	- Keynote Lecture: Interaction Design without Interafces at the <a href="http://hccg.nitk.ac.in/" target="_blank">HCI workshop</a><br /> Held <em>at NITK Surathkal</em> 25<sup>th</sup> – 27<sup>th</sup> June, 2015
-	- Talk: Fun with charts, graphs and maps at the 34<sup>th</sup> Mathematics Olympiad 2015 held at <em>IIT Bombay</em>on 1<sup>st</sup> Feb, 2015
-	- Workshop: <a href="ethics-in-design/" target="_blank">Professional Ethics for UI/UX Designers</a><br /> Held <em>at IIT Delhi</em> on 7<sup>th</sup> Dec, 2014 for <a href="http://indiahci2014.in/workshops.html#ethics">IndiaHCI 2014</a></li>
+	<ul>
+	<li>Workshop: <a href="https://info-design-lab.github.io/AI2Design/" target="_blank">Using AI to Design</a> held at IIT Bombay on 13<sup>th</sup> September, 2025.</li>
+	<li>Workshop: <a href="ma-dfworkshop" target="_blank">Digital Fabrication Workshop</a> held at IDC School of Design and <a href="https://www.makersasylum.com/" target="_blank">Maker's Asylum</a> from 15<sup>th</sup> - 21<sup>st</sup> February, 2020.</li>
+	<li>Course: <a href="transitions" target="_blank">Enhancing User Experience through Effective Transitions</a> at <a href="https://indiahci.org/2018/" target="_blank">India HCI 2018</a> held at Srishti Institute of Art, Design and Technology on 18<sup>th</sup> December, 2018.</li>
+	</ul>
+
+	<details>
+	<summary>Show all workshops & talks</summary>
+	<ul>
+	<li>Summer School: <a href="https://tcpd.ashoka.edu.in/summer-school/" target="_blank">Trivedi Centre for Political Data</a> at <a href="https://www.ashoka.edu.in/" target="_blank">Ashoka University</a>, July 9 -13, 2018.</li>
+	<li>Workshop: <a href="microinteractions" target="_blank">Microinteractions Toolkit for UI/UX Designers</a> at <a href="http://indiahci2016.org/" target="_blank">India HCI 2016</a> held at IIT Bombay on 7<sup>th</sup> December, 2016.</li>
+	<li>Digital Media and Design workshop at <a href="https://www.iiitd.ac.in/webstory/dmd">IIIT Delhi</a> on 30<sup>th</sup> July, 2016.</li>
+	<li><em>Design Innovation Centre</em> concept development workshop at <a href="http://www.spabhopal.ac.in/" target="_blank">School of Planning and Architecture Bhopal</a> on 15<sup>th</sup> May, 2016.</li>
+	<li>HCI Workshop at <a href="http://www.iiitdm.ac.in/" target="_blank">IIITDM Kancheepuram</a> on 4<sup>th</sup> & 5<sup>th</sup> March, 2016.</li>
+	<li>Keynote Lecture: Interaction Design without Interafces at the <a href="http://hccg.nitk.ac.in/" target="_blank">HCI workshop</a><br /> Held <em>at NITK Surathkal</em> 25<sup>th</sup> – 27<sup>th</sup> June, 2015</li>
+	<li>Talk: Fun with charts, graphs and maps at the 34<sup>th</sup> Mathematics Olympiad 2015 held at <em>IIT Bombay</em>on 1<sup>st</sup> Feb, 2015</li>
+	<li>Workshop: <a href="ethics-in-design/" target="_blank">Professional Ethics for UI/UX Designers</a><br /> Held <em>at IIT Delhi</em> on 7<sup>th</sup> Dec, 2014 for <a href="http://indiahci2014.in/workshops.html#ethics">IndiaHCI 2014</a></li>
+	</ul>
+	</details>
 
 	{{< /tab >}}
 
