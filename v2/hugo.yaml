@@ -36,9 +36,12 @@ menu:
     - name: Workshops & Talks
       url: "/#events"
       weight: 5
+    - name: Articles
+      url: "/articles/"
+      weight: 6
     - name: People
       url: "/#people"
-      weight: 6
+      weight: 7
 
 params:
   theme:
