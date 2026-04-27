@@ -1,0 +1,120 @@
+<script>
+(function () {
+  try {
+    localStorage.setItem('theme', 'light');
+  } catch (error) {}
+
+  document.documentElement.classList.remove('dark');
+  document.documentElement.style.colorScheme = 'light';
+
+  var tabMap = {
+    '#projects': 'Projects',
+    '#papers': 'Papers',
+    '#recent-papers': 'Papers',
+    '#courses': 'Courses',
+    '#events': 'Workshops & Talks'
+  };
+
+  function findTabByLabel(label) {
+    var tabs = document.querySelectorAll('[role="tab"]');
+    for (var i = 0; i < tabs.length; i++) {
+      if (tabs[i].textContent.trim() === label) {
+        return tabs[i];
+      }
+    }
+    return null;
+  }
+
+  function normalizePath(path) {
+    return path.replace(/\/+$/, '') || '/';
+  }
+
+  function closeMobileMenu() {
+    var menuButton = document.querySelector('.hextra-hamburger-menu');
+    if (!menuButton) return;
+    if (window.innerWidth >= 768) return;
+    if (menuButton.getAttribute('aria-expanded') !== 'true') return;
+
+    menuButton.click();
+  }
+
+  function scrollToHashTarget(hash) {
+    if (!hash) return;
+    var target = document.getElementById('research--teaching');
+    if (!target) return;
+
+    requestAnimationFrame(function () {
+      requestAnimationFrame(function () {
+        target.scrollIntoView({ block: 'start' });
+      });
+    });
+  }
+
+  function activateTabFromHash(hash, retries) {
+    hash = hash || window.location.hash;
+    retries = typeof retries === 'number' ? retries : 12;
+
+    var label = tabMap[hash];
+    if (!label) return;
+
+    var tab = findTabByLabel(label);
+    if (!tab) {
+      if (retries <= 0) return;
+      window.setTimeout(function () {
+        activateTabFromHash(hash, retries - 1);
+      }, 60);
+      return;
+    }
+
+    if (tab.getAttribute('aria-selected') !== 'true') {
+      tab.click();
+    }
+
+    window.setTimeout(function () {
+      var selectedTab = document.querySelector('[role="tab"][aria-selected="true"]');
+      if (!selectedTab || selectedTab.textContent.trim() !== label) {
+        if (retries <= 0) return;
+        activateTabFromHash(hash, retries - 1);
+        return;
+      }
+
+      scrollToHashTarget(hash);
+    }, 80);
+  }
+
+  function bindTabNavigationLinks() {
+    var links = document.querySelectorAll('a[href*="#"]');
+    for (var i = 0; i < links.length; i++) {
+      links[i].addEventListener('click', function (event) {
+        var url = new URL(this.href, window.location.href);
+        var hash = url.hash;
+        if (normalizePath(url.pathname) !== normalizePath(window.location.pathname)) return;
+
+        closeMobileMenu();
+
+        if (!tabMap[hash]) return;
+
+        event.preventDefault();
+        if (window.location.hash !== hash) {
+          window.history.pushState(null, '', hash);
+        }
+        activateTabFromHash(hash);
+      });
+    }
+  }
+
+  document.addEventListener('DOMContentLoaded', function () {
+    bindTabNavigationLinks();
+    activateTabFromHash();
+  });
+  window.addEventListener('load', function () {
+    activateTabFromHash();
+  });
+  window.addEventListener('pageshow', function () {
+    activateTabFromHash();
+  });
+  window.addEventListener('hashchange', function () {
+    activateTabFromHash();
+  });
+})();
+</script>

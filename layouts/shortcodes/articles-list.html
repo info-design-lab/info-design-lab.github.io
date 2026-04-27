@@ -1,0 +1,25 @@
+{{- $limitParam := .Get "limit" -}}
+{{- $limit := 0 -}}
+{{- if $limitParam -}}
+  {{- $limit = int $limitParam -}}
+{{- end -}}
+{{- $articles := sort (where site.RegularPages "Section" "articles") "Date" "desc" -}}
+{{- if gt $limit 0 -}}
+  {{- $articles = first $limit $articles -}}
+{{- end -}}
+
+<div class="articles-list">
+  {{- range $articles -}}
+    <article class="article-card">
+      {{- with .Params.source }}
+        <p class="article-eyebrow">{{ . }}</p>
+      {{- end }}
+      <h3 class="article-title"><a href="{{ .RelPermalink }}">{{ .Title }}</a></h3>
+      <p class="article-meta">{{ .Date.Format "Jan 2, 2006" }}</p>
+      {{- with .Params.summary }}
+        <p class="article-excerpt">{{ . }}</p>
+      {{- end }}
+      <p class="article-action"><a href="{{ .RelPermalink }}">Read article</a></p>
+    </article>
+  {{- end -}}
+</div>
