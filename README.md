@@ -2,6 +2,17 @@
 
 This repository contains the Information Design Lab website (https://info-design-lab.github.io) built with Hugo. Older legacy root-site files have been preserved in `archive/info-design-lab-site-v1/`.
 
+## Table of Contents
+
+- [Structure](#structure)
+- [Adding Content](#adding-content)
+	- [Add an article](#add-an-article)
+	- [Edit the main page](#edit-the-main-page)
+	- [Add a page](#add-a-page)
+	- [Add a homepage section](#add-a-homepage-section)
+- [Hextra Theme Documentation](#hextra-theme-documentation)
+- [Local Development](#local-development)
+
 ## Structure
 
 - `content/_index.md`: homepage content and homepage sections
