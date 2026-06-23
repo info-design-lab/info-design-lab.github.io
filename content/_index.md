@@ -118,14 +118,14 @@ We work in an interdisciplinary, collaborative atmosphere with partners from aca
     <dt><a href="https://doi.org/10.4324/9781032673554" target="_blank">
     Perspectives on Design Education in India and Asia (1st ed.)</a></dt>
     <dd>Edited by P.M. Sathikh, R. Poovaiah, V. Rajamanickam, K.G. Oen
-    <br />Published by Routledge, 2024. DOI: <a href="https://doi.org/10.4324/9781032673554" target="_blank">10.4324/9781032673554</a>
+    <br />Published by Routledge, 2025. DOI: <a href="https://doi.org/10.4324/9781032673554" target="_blank">10.4324/9781032673554</a>
     </dd>
     </dl>
 	<dl>
     <dt><a href="https://doi.org/10.4324/9781032673554-11" target="_blank">
     Design Aptitude Test: An Indian Experience</a></dt>
     <dd>By Venkatesh Rajamanickam
-    <br />Published in P. M. Sathikh, R. Poovaiah, V. Rajamanickam, & K. G. Oen (Eds.), *Perspectives on Design Education in India and Asia* (pp. 71-76), 2025. Routledge. DOI: <a href="https://doi.org/10.4324/9781032673554-11" target="_blank">10.4324/9781032673554-11</a>
+    <br />Published in P. M. Sathikh, R. Poovaiah, V. Rajamanickam, & K. G. Oen (Eds.), Perspectives on Design Education in India and Asia (pp. 71-76), 2025. Routledge. DOI: <a href="https://doi.org/10.4324/9781032673554-11" target="_blank">10.4324/9781032673554-11</a>
     </dd>
     </dl>
     <dl>
