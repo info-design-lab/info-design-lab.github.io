@@ -11,13 +11,15 @@ source: "LinkedIn"
 
 <p class="article-read-link"><a href="https://www.linkedin.com/pulse/brief-always-arrives-wrong-venkatesh-rajamanickam-t7wjf/" target="_blank" rel="noreferrer">Read on LinkedIn</a></p>
 
+### On why the profession will not run out of work simply because machines have learned to make things.
+
 There is a demonstration that circulates in studios and lecture theatres, and it tends to land with the force of an argument even though it is only a performance. Someone opens a tool, types a sentence, and within seconds produces logo concepts, UI screens, a brand colour system with rationale attached. The implication settles without being stated: look what the machine can do; look what you are no longer needed to do. The conclusion; that designers face displacement; is treated as too obvious to require defending.
 
 The demonstration mistakes fluency for understanding, and output for work. It shows that a system trained on the residue of past design decisions can reproduce their surface appearance quickly and cheaply. It does not show that design consists principally of that kind of production, or that the situations which call for design will become less frequent because production has become frictionless. Behind this mistake is a picture of design as a fixed inventory of things to be made, waiting in a queue for a practitioner to clear it. Automate the making, and the queue empties. What remains is a shrinking perimeter, retreating with each model release.
 
 This picture is wrong. Working out why it fails is not a matter of professional self-reassurance; it matters because those who hold it are making decisions about hiring, education, and practice on a false account of what design actually does.
 
-## The Brief Is Where the Work Begins; and It Is Always Wrong
+### The Brief Is Where the Work Begins; and It Is Always Wrong
 
 A striking proportion of design effort is expended not on producing artefacts but on establishing what they should be. The brief that arrives on a designer's desk is typically a compressed and partially mistaken account of a situation the commissioning organisation does not fully understand. Designers do not receive problems. They help constitute them.
 
@@ -25,7 +27,7 @@ A hospital once commissioned a wayfinding system for an outpatient building wher
 
 This upstream work has no stable form. It does not produce something that can be evaluated by looking at it. Generative systems have no access to it because it was never documented; it lives in site visits, in conversations, in the moment a researcher watches a user hesitate for three seconds at a choice they should not have to make. That knowledge must be gathered freshly in each situation, because each situation is particular in the ways that matter.
 
-## Tools Have Always Raised the Stakes
+### Tools Have Always Raised the Stakes
 
 The assumption that better tools mean less work runs against everything the history of the discipline shows. When digital pre-press arrived in the early 1990s, it made multi-page layouts producible in hours rather than weeks. The expected consequence was smaller workloads. What actually happened was that clients, now aware changes were cheap, began requesting more of them. Revision cycles multiplied. Non-designers became participants in iteration because the cost of their participation had fallen. The total labour per project did not shrink; the nature of the process changed, and the amount of work in it held or grew.
 
@@ -35,7 +37,7 @@ Generative AI is already exhibiting this at the concept stage. The capacity to p
 
 The most consequential design decisions often produce no visible artefact. They produce clarity about what not to make, and why the stated problem is not the real one.
 
-## A Position Requires Someone to Hold It
+### A Position Requires Someone to Hold It
 
 Much of what design produces is not objects but positions; stances taken on contested questions about what a product should do, who it is for, and what it should cost in human terms. These positions are arrived at through a process that is irreducibly social: presentations, critiques, negotiations, and the particular kind of argument [2] that happens when someone with expertise in how people experience things sits across a table from someone with authority over what gets built.
 
@@ -43,7 +45,7 @@ A generative system can produce artefacts that embody a position without being a
 
 When a medical device causes harm because its interface was poorly designed, the accountability structures that follow name practitioners and organisations, not tools. That assumption does not dissolve when a generative system is used in the making; it extends to cover the use of the system itself. The expansion of generative tools into design practice creates new questions of professional judgment; when to accept generated outputs, when to question them, how to identify the subtle failures of contextual fit that a system optimised for statistical plausibility reliably produces; that demand more expertise, not less.
 
-## Most of the World Has Not Yet Been Designed
+### Most of the World Has Not Yet Been Designed
 
 The displacement argument assumes that design demand is currently being met; that the world has roughly the right amount of design, and that AI threatens the existing share of it. This premise is wrong by a wide margin.
 
@@ -51,7 +53,7 @@ Public services in most countries operate on interfaces and communication materi
 
 Design has been absent not because there is nothing to do but because the cost of doing it made it economically inaccessible relative to the budgets involved. If generative tools reduce production costs significantly, they do not reduce the need for design skill in these contexts; they potentially remove the barrier that has kept it out. Whether that opening is taken up is a question about the profession's choices and its willingness to orient towards difficult, unglamorous, high-stakes problems; not a question about whether sufficient work exists.
 
-## Seeing Is an Argument
+### Seeing Is an Argument
 
 The version of displacement focused on visual production; AI can generate images, therefore image-makers are redundant; rests on a category error. It treats visual output as decoration applied to content that exists independently of it. Visual decisions in design are not decorative. They are arguments made in the register of perception.
 
@@ -65,9 +67,8 @@ But task disruption is not professional elimination, and the confusion between t
 
 The brief always arrives wrong. That is not a problem that needs solving. It is a description of where the work begins.
 
----
 
-## Notes
+### Notes
 
 [1] The pattern: digitisation of production expanding revision cycles and client involvement rather than reducing overall labour -- has recurred with each subsequent wave of design tooling, from desktop publishing through to parametric CAD and component-based interface design. It has not been the subject of rigorous longitudinal study across the profession, which is itself a symptom of how poorly the economics and sociology of design practice are documented compared to analogous knowledge professions.
 

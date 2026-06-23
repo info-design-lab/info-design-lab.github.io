@@ -107,6 +107,39 @@ We work in an interdisciplinary, collaborative atmosphere with partners from aca
 	<a id="recent-papers"></a>
 	### Recent Papers
 	<dl>
+	<dl>
+    <dt>
+    Can User Awareness through Visual Feedback increase the Tolerable Delay in VoIP Calls?</dt>
+    <dd>By Heinsamding Thou, Arindam Kishore Dutta, Bhaskaran Raman, Venkatesh Rajamanickam
+    <br />Published in Proceedings of the ACM on Human-Computer Interaction (PACMHCI), MobileHCI 2026.
+    </dd>
+    </dl>
+	<dl>
+    <dt><a href="https://doi.org/10.4324/9781032673554" target="_blank">
+    Perspectives on Design Education in India and Asia (1st ed.)</a></dt>
+    <dd>Edited by P.M. Sathikh, R. Poovaiah, V. Rajamanickam, K.G. Oen
+    <br />Published by Routledge, 2024. DOI: <a href="https://doi.org/10.4324/9781032673554" target="_blank">10.4324/9781032673554</a>
+    </dd>
+    </dl>
+	<dl>
+    <dt><a href="https://doi.org/10.4324/9781032673554-11" target="_blank">
+    Design Aptitude Test: An Indian Experience</a></dt>
+    <dd>By Venkatesh Rajamanickam
+    <br />Published in P. M. Sathikh, R. Poovaiah, V. Rajamanickam, & K. G. Oen (Eds.), *Perspectives on Design Education in India and Asia* (pp. 71-76), 2025. Routledge. DOI: <a href="https://doi.org/10.4324/9781032673554-11" target="_blank">10.4324/9781032673554-11</a>
+    </dd>
+    </dl>
+    <dl>
+	<dl>
+    <dt><a href="https://dl.acm.org/doi/10.1145/3661455.3669882" target="_blank">
+    Laying the groundwork: Building trust with a marginalised community in Mumbai, India</a></dt>
+    <dd>By B. Goswami, X. Ho, I. Fridman, A. Jana, Venkatesh Rajamanickam
+    <br />Published in PDC 2024 Reaching Out: Connecting Beyond Participation: Proceeding of 18th Biennial Participatory Design Conference, Vol. 2, pp. 135-146, 2024. Association for Computing Machinery (ACM). DOI: <a href="https://dl.acm.org/doi/10.1145/3661455.3669882" target="_blank">10.1145/3661455.3669882</a>
+    </dd>
+    </dl>
+	<details class="tab-expand">
+	<summary><span>Show all papers</span></summary>
+	</br>
+    <dl>
 	<dt><a href="https://doi.org/10.1109/MCG.2020.3044071" target="_blank">
 	The Next Billion Users of Visualization</a></dt>
 	<dd>By Amit Jena, Matthew Butler, Tim Dwyer, Kirsten Ellis, Ulrich Engelke, Reuben Kirkham, Kim Marriott, Cecile Paris, Venkatesh Rajamanickam
@@ -120,9 +153,6 @@ We work in an interdisciplinary, collaborative atmosphere with partners from aca
 	<br />Published in Proceedings of the 10th Indian Conference on Human Computer Interaction, IndiaHCI’19, pages 8:1–8:11, New York, NY, USA, 2019. ACM. DOI: <a href="https://doi.org/10.1145/3364183.3364186" target="_blank">https://doi.org/10.1145/3364183.3364186</a>
 	</dd>
 	</dl>
-	<details class="tab-expand">
-    <br/>
-	<summary><span>Show all papers</span></summary>
 	<dl>
 	<dt><a href="https://dl.acm.org/citation.cfm?id=3014366" target="_blank">
 	Designing Data Collection Methods for Applying Learning Analytics in Resource Constrained Schools</a></dt>

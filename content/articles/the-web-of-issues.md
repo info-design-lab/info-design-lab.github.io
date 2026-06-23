@@ -11,13 +11,15 @@ source: "LinkedIn"
 
 <p class="article-read-link"><a href="https://www.linkedin.com/pulse/web-issues-venkatesh-rajamanickam-nxo9f/" target="_blank" rel="noreferrer">Read on LinkedIn</a></p>
 
+### On design as argumentation, and why the process is the work.
+
 Note: This essay began as a footnote to the previous essay [The Brief Always Arrives Wrong](/articles/the-brief-always-arrives-wrong/), and refused to stay one.
 
 In 1972 Horst Rittel, an architect and design theorist who had left the HfG Ulm to teach at Berkeley, published a paper that gave the profession one of its most useful and least used ideas. The paper argued that design problems are not problems in the technical sense: bounded, solvable, capable of a correct answer that can be verified after the fact. They are, in his phrase, wicked -- open-ended and intrinsically controversial, resistant to closure, reshaped by every attempt to resolve them. But Rittel did not stop at the diagnosis. What interested him was what followed from it: that because design problems cannot be closed by logic or evidence alone, the process of designing is unavoidably an argumentative process. The designer debates with herself, or with others. Issues arise. Competing positions form. Arguments are assembled for and against each position. Eventually a judgment is made; not derivable from the evidence alone, but made despite its incompleteness, under the pressure of time and the weight of the stakes involved.
 
 Rittel called this structure a web of issues, and he was precise about its components. An issue is a design question that has been opened and not yet closed: not "what colour should the button be"; that is a preference, answerable by convention; but "what should the primary action of this screen be, and for whom?" A position is an answer to an issue, together with the reasoning that supports it. An argument is the case for or against a position, which may raise new issues, loop back into earlier ones, or reveal that something that appeared settled was not. The web is not a diagram of a method. It is a description of what is actually happening when designers work, whether they know it or not. The process, Rittel observed, "appears as one of formation of judgement, alternating with the search for ideas."
 
-## The Issue That Will Not Stay Closed
+### The Issue That Will Not Stay Closed
 
 Interaction design is the field in which Rittel's web is most immediately and most relentlessly visible. Every interaction design problem is simultaneously a problem about behaviour -- what will a user do; and a problem about intent, what should we enable them to do, and what should we make difficult? Those two questions are not the same, and they do not converge naturally. The gap between them is where the design work lives.
 
@@ -27,7 +29,7 @@ This is not failure. It is the normal condition of an interaction design problem
 
 A designer who moves from brief to wireframe without passing through the web of issues has not avoided the arguments. She has merely deferred them to a point where they are more expensive to resolve.
 
-## Closing Is a Political Act
+### Closing Is a Political Act
 
 The most challenging aspect of Rittel's account; and the one that sits most awkwardly with professional self-presentation; is his insistence that the closing of issues is neither logical nor neutral. It is political. When a design team decides that the notification system will default to minimal and require users to opt into more, they have not solved a problem; they have made a judgment reflecting values about user autonomy, about the relationship between product and person, about what kind of attention is worth claiming. Someone with different values would close the issue differently. Neither closure is wrong in a technical sense. Both are answerable for their consequences.
 
@@ -35,7 +37,7 @@ This matters because the closing of issues does not happen in a vacuum. It happe
 
 Rittel saw this not as a deficiency to be corrected by better methods but as an irreducible feature of the domain. Design problems are about what should be, not merely about what is. Questions about what should be can only be answered by people with values, answerable to each other. No optimisation function can settle them. No model trained on past design decisions can resolve them, because those past decisions were themselves political closures made under particular conditions by particular people, and those conditions have changed.
 
-## What Gets Lost When the Process Is Skipped
+### What Gets Lost When the Process Is Skipped
 
 The prospect of generative AI accelerating interaction design raises a specific and serious question: what happens to the web of issues when the output arrives before the arguments have been made? This is already the mode in which many teams are beginning to use generative tools; not to assist in working through a problem but to bypass it, moving quickly from a brief to a solution that looks finished and therefore creates a psychological pressure to be accepted. [1]
 
@@ -43,7 +45,7 @@ A generated set of screens for a banking application's onboarding flow will have
 
 The documentation of design rationale; which Rittel advocated through his Issue-Based Information System, and which the field has approached with instruments from QOC to design history templates [2]; is precisely the record of which issues were opened, what positions were considered, and on what grounds a judgment was made. It is not bureaucratic overhead. It is the only reliable way to know, when a product fails or succeeds, what decisions produced the outcome. Without it, there is no learning; only repetition.
 
-## The Designer as the One Who Keeps the Issues Open
+### The Designer as the One Who Keeps the Issues Open
 
 The most important thing an interaction designer does is not to solve problems but to keep the right problems open for long enough that they can be solved well. The discipline this requires is the discipline to distinguish the issues that must be closed by argument from those that can be closed by testing, and both of those from the issues that are not yet open because nobody has yet noticed them.
 
@@ -57,7 +59,7 @@ Generative systems will produce more and more plausible-looking resolutions. The
 
 ---
 
-## Notes
+### Notes
 
 [1] The observation that AI-generated outputs render prior design decisions invisible; and that this invisibility creates pressure to accept those decisions without examination; is structurally identical to the problem Rittel identified with first-generation design methods: the illusion that a rational process can produce a determinate solution, obscuring the political judgments that shaped it. The difference is one of speed and surface finish. The problem is the same.
 
