@@ -111,7 +111,7 @@ We work in an interdisciplinary, collaborative atmosphere with partners from aca
     <dt>
     Can User Awareness through Visual Feedback increase the Tolerable Delay in VoIP Calls?</dt>
     <dd>By Heinsamding Thou, Arindam Kishore Dutta, Bhaskaran Raman, Venkatesh Rajamanickam
-    <br />Published in Proceedings of the ACM on Human-Computer Interaction (PACMHCI), MobileHCI 2026.
+    <br />Published in Proceedings of the ACM on Human-Computer Interaction (PACMHCI), <a href="https://mobilehci.acm.org/2026/" target="_blank">MobileHCI 2026</a>.
     </dd>
     </dl>
 	<dl>
