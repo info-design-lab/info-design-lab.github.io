@@ -524,3 +524,15 @@ main#content:has(.hero-banner) > h1[class*="hx:text-center"][class*="hx:text-4xl
   color: #fecaca !important;
   border-bottom-color: #fecaca !important;
 }
+
+.content blockquote {
+    border-left: 4px solid #6e1a00;
+    padding-left: 1rem;
+}
+
+.content blockquote > p {
+    font-style: normal;
+    font-size: 1.2rem;
+    line-height: 1.7;
+    color: #3d3a38;
+}

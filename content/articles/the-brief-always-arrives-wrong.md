@@ -1,5 +1,5 @@
 ---
-title: "The Brief Always Arrives Wrong"
+title: "I. The Brief Always Arrives Wrong"
 date: 2026-06-09
 summary: "On why the profession will not run out of work simply because machines have learned to make things."
 linkedin_url: "https://www.linkedin.com/pulse/brief-always-arrives-wrong-venkatesh-rajamanickam-t7wjf/"
@@ -73,3 +73,7 @@ The brief always arrives wrong. That is not a problem that needs solving. It is 
 [1] The pattern: digitisation of production expanding revision cycles and client involvement rather than reducing overall labour -- has recurred with each subsequent wave of design tooling, from desktop publishing through to parametric CAD and component-based interface design. It has not been the subject of rigorous longitudinal study across the profession, which is itself a symptom of how poorly the economics and sociology of design practice are documented compared to analogous knowledge professions.
 
 [2] Design rationale is a synonym for argumentation. Rittel (1972) was the first to advocate systematic documentation of design rationale as part of design. He sees design problems as fundamentally open ended and controversial in the sense that there are no objective criteria for closing problem definitions and settling disagreements. Such closing and settling are necessary for design, but, for the designer, the decisions on closing and settling are judgmental and political in nature. The design rationale takes the form of a network of issues (design questions), selected and rejected answers, and arguments for and against these answers. Rittel's framework -- issues, positions, arguments -- needs to be written as an essay on its own terms rather than as a reference. My next essay [The Web of Issues](/articles/the-web-of-issues/) is precisely that.
+
+### Essays In The Series
+
+[Index of essays on design practice in the age of generative AI](/articles/essays-on-design-practice-in-the-age-of-gen-ai/)

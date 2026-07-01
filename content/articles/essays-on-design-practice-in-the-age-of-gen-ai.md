@@ -1,7 +1,7 @@
 ---
 title: "Essays on design practice in the age of generative AI"
 date: 2026-06-28
-summary: "Essays on design practice in the age of generative AI"
+summary: "Essays on design practice in the age of generative AI."
 author: "Venkatesh Rajamanickam"
 ---
 

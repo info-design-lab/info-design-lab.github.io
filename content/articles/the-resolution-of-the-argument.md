@@ -1,5 +1,5 @@
 ---
-title: "The Resolution of the Argument"
+title: "V. The Resolution of the Argument"
 date: 2026-06-28
 summary: "On sketches, prompts, and the level of abstraction at which design arguments live."
 linkedin_url: "https://www.linkedin.com/pulse/resolution-argument-venkatesh-rajamanickam-awnuf"
@@ -13,7 +13,7 @@ source: "LinkedIn"
 
 ### On sketches, prompts, and the level of abstraction at which design arguments live.
 
-Note: This essay continues a series. [The Brief Always Arrives Wrong](/articles/the-brief-always-arrives-wrong/) argued that design's most consequential work is the constituting of problems.[The Web of Issues](/articles/the-web-of-issues/) drew on Horst Rittel to argue that the design process is irreducibly argumentative. [The Quarrel That AI Reopened](/articles/the-quarrel-that-ai-reopened/) set Rittel against Herbert Simon; [Two Stopping Rules](/articles/two-stopping-rules/) examined how the work ends. This essay grew out of a conversation with my colleague Kartikeya Date for which I am grateful. It returns to the web of issues and asks a question the earlier essay left unexamined: what are the issues, positions, and arguments made of? 
+<i>Note: This essay continues a series. [The Brief Always Arrives Wrong](/articles/the-brief-always-arrives-wrong/) argued that design's most consequential work is the constituting of problems.[The Web of Issues](/articles/the-web-of-issues/) drew on Horst Rittel to argue that the design process is irreducibly argumentative. [The Quarrel That AI Reopened](/articles/the-quarrel-that-ai-reopened/) set Rittel against Herbert Simon; [Two Stopping Rules](/articles/two-stopping-rules/) examined how the work ends. This essay grew out of a conversation with my colleague Kartikeya Date for which I am grateful. It returns to the web of issues and asks a question the earlier essay left unexamined: what are the issues, positions, and arguments made of? </i>
 
 There is an assumption hidden in Rittel's framework, and it was hidden in this series' account of it too. Issues, positions, and arguments sound like linguistic entities; things that are said, written, asserted, rebutted. Rittel's Issue-Based Information System made the assumption literal: a structure of nodes and links, each node a proposition, the whole web a text. And the research tradition that tried to build tools on that structure discovered, slowly and painfully, what the assumption cost. Designers asked to record their deliberations in formal notation did not experience the recording as a service to the deliberation. They experienced it as a falsification of it. The act of forcing a half-formed position into a determinate sentence changed the position; usually by killing the part of it that was still alive. Researchers eventually gave this failure a name, and the name was a warning: formality considered harmful [1].
 
@@ -41,7 +41,7 @@ At the output, the artefact arrives at the wrong level of abstraction for the st
 
 Between these two ends, the middle band of representation, the dense, ambiguous, lateral-supporting territory where Goldschmidt's designers discovered their positions and Goel's designers found their alternatives, is squeezed toward nothing; not by any decision, but by convenience. Text in and renders out is simply the easiest way to use the tools. The web of issues does not stop existing in such a practice. It gets conducted in representations that can only close it.
 
-> A sketch-styled render is a fully determinate representation wearing the costume of an open one. The roughness carries no information about what is unsettled, because nothing is unsettled.
+<blockquote style="font-size: 1.2rem; font-style: normal;">A sketch-styled render is a fully determinate representation wearing the costume of an open one. The roughness carries no information about what is unsettled, because nothing is unsettled.</blockquote>
 
 ### Decorative Ambiguity
 
@@ -60,3 +60,7 @@ Because that is the stake, stated plainly. The earlier essays found the issues b
 [2] Gabriela Goldschmidt's account of seeing as and seeing that appears in The Dialectics of Sketching (Creativity Research Journal, 1991), with the broader programme developed in her later work on linkography and in Design Representation (2004), the volume she edited with William Porter, whose own contributions to the study of design conversation at MIT frame representation as the shared instrument of collaborative reasoning. Donald Schön's description of the situation talking back is in The Reflective Practitioner (1983); the studies of designers perceiving unintended relations in their own sketches are due principally to Masaki Suwa and Barbara Tversky in the late 1990s.
 
 [3] Vinod Goel, Sketches of Thought (MIT Press, 1995). The lateral and vertical transformation distinction, and the experiments comparing freehand sketching with structured drawing tools, are at the book's centre; its larger target is the requirement, inherited from the computational theory of mind, that mental representations be determinate, disjoint, and unambiguous. Goel's argument that the ill-structured properties of sketches are computationally functional rather than degenerate is, in effect, the cognitive-science wing of Rittel's side of the quarrel, though the two literatures rarely cite one another.
+
+### Essays In The Series
+
+[Index of essays on design practice in the age of generative AI](/articles/essays-on-design-practice-in-the-age-of-gen-ai/)

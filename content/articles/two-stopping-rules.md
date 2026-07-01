@@ -1,5 +1,5 @@
 ---
-title: "Two Stopping Rule"
+title: "IV. Two Stopping Rule"
 date: 2026-06-21
 summary: "On how designers decide that the designing is done."
 linkedin_url: "https://www.linkedin.com/pulse/two-stopping-rules-venkatesh-rajamanickam-vaxnf"
@@ -13,7 +13,7 @@ source: "LinkedIn"
 
 ### On how designers decide that the designing is done.
 
-Note: This essay continues a series. The [The Brief Always Arrives Wrong](/articles/the-brief-always-arrives-wrong/) argued that design's most consequential work is the constituting of problems.[The Web of Issues](/articles/the-web-of-issues/) drew on Horst Rittel to argue that the design process is irreducibly argumentative. [The Quarrel That AI Reopened](/articles/the-quarrel-that-ai-reopened/) set Rittel against Herbert Simon and proposed a jurisdictional settlement: Simon governs the inside of the problem space, Rittel the drawing of it. This essay takes the quarrel down to its sharpest point of contact, a question both men answered and almost nobody teaches.
+<i>Note: This essay continues a series. The [The Brief Always Arrives Wrong](/articles/the-brief-always-arrives-wrong/) argued that design's most consequential work is the constituting of problems. [The Web of Issues](/articles/the-web-of-issues/) drew on Horst Rittel to argue that the design process is irreducibly argumentative. [The Quarrel That AI Reopened](/articles/the-quarrel-that-ai-reopened/) set Rittel against Herbert Simon and proposed a jurisdictional settlement: Simon governs the inside of the problem space, Rittel the drawing of it. This essay takes the quarrel down to its sharpest point of contact, a question both men answered and almost nobody teaches.</i>
 
 
 Every design project ends. The ending is the least examined event in the entire process. Design education teaches how to begin: how to research, how to reframe, how to generate alternatives. It teaches how to proceed: how to iterate, how to critique, how to test. It does not teach how to stop, and most practitioners, asked when a design is done, will give an answer that is really a description of their calendar. The sprint ended. The budget ran out. The launch date arrived. The client stopped replying. These are endings, but they are not answers; they are what happens in the absence of an answer, and the profession has learned to live inside that absence so comfortably that it has stopped noticing the question.
@@ -44,7 +44,7 @@ This creates a stopping rule that operates on the viewer rather than the maker: 
 
 The failure is not hypothetical. The previous essays described how a generated onboarding flow closes issues invisibly; the stopping rule explains why the closures stay closed. A team that receives a rough sketch interrogates it. A team that receives a finished-looking artefact reviews it, and review is a fundamentally weaker posture: it accepts the framing and inspects the execution. Plausibility does not just end the search prematurely. It demotes everyone present from designer to approver.
 
-> Simon's rule, used knowingly, is a tool. Rittel's requirement, taken seriously, is a discipline. The third rule, left unexamined, is a surrender that does not know itself to be one, performed one glance at a time.
+<blockquote style="font-size: 1.2rem; font-style: normal;">Simon's rule, used knowingly, is a tool. Rittel's requirement, taken seriously, is a discipline. The third rule, left unexamined, is a surrender that does not know itself to be one, performed one glance at a time.</blockquote>
 
 ### A Studio That Took Stopping Seriously
 
@@ -54,6 +54,8 @@ None of this slows the work. The aspiration level takes an hour to set; the stop
 
 The brief always arrives wrong, and the issues it contains must be argued rather than optimised. But arguments, like searches, have to end, and a profession is defined as much by how it ends things as by how it begins them. The machines have made ending effortless. That is exactly why it can no longer be left unexamined: the one decision the tools now make by default, the decision that the work is done, is the one decision that was always, irreducibly, ours to defend.
 
+In the [next essay](/articles/the-resolution-of-the-argument/) I return to the web of issues and ask the question the earlier essay left unexamined: what are the issues, positions, and arguments made of?
+
 ### Notes
 
 [1] Satisficing first appears in Simon's "A Behavioral Model of Rational Choice" (Quarterly Journal of Economics, 1955), with roots in Administrative Behavior (1947); the term was Simon's deliberate coinage to mark the distance from optimising. The dynamics of aspiration levels, rising when search is cheap and falling when it is costly, are developed there and in his later work on bounded rationality, and they remain one of the few pieces of mid-century decision theory that describes observable studio behaviour without embarrassment.
@@ -61,3 +63,7 @@ The brief always arrives wrong, and the issues it contains must be argued rather
 [2] The 5 participant convention in usability testing derives from work by Jakob Nielsen and Tom Landauer in the early 1990s on the diminishing returns of additional test users. Its afterlife is a study in how an aspiration level hardens into folklore: a cost-benefit calculation made under particular assumptions about problem frequency and study design became, within a decade, a number teams cite without the assumptions, which is to say a stopping rule with its rationale amputated. Rittel would have recognised the pattern; it is design rationale lost in transmission, at the scale of an entire profession.
 
 [3] The absence of a stopping rule is the second of the ten characteristics of wicked problems in Rittel and Webber's "Dilemmas in a General Theory of Planning" (Policy Sciences, 1973). It is worth noting how carefully it is phrased: the claim is not that designers never stop, which would be absurd, but that the stopping is never derivable from the problem itself, which relocates it from logic to judgment, and therefore from method to accountability.
+
+### Essays In The Series
+
+[Index of essays on design practice in the age of generative AI](/articles/essays-on-design-practice-in-the-age-of-gen-ai/)

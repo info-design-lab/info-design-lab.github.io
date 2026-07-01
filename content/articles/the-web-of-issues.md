@@ -1,5 +1,5 @@
 ---
-title: "The Web of Issues"
+title: "II. The Web of Issues"
 date: 2026-06-10
 summary: "On design as argumentation, and why the process is the work."
 linkedin_url: "https://www.linkedin.com/pulse/web-issues-venkatesh-rajamanickam-nxo9f/"
@@ -13,7 +13,7 @@ source: "LinkedIn"
 
 ### On design as argumentation, and why the process is the work.
 
-Note: This essay began as a footnote to the previous essay [The Brief Always Arrives Wrong](/articles/the-brief-always-arrives-wrong/), and refused to stay one.
+<i>Note: This essay began as a footnote to the previous essay [The Brief Always Arrives Wrong](/articles/the-brief-always-arrives-wrong/), and refused to stay one.</i>
 
 In 1972 Horst Rittel, an architect and design theorist who had left the HfG Ulm to teach at Berkeley, published a paper that gave the profession one of its most useful and least used ideas. The paper argued that design problems are not problems in the technical sense: bounded, solvable, capable of a correct answer that can be verified after the fact. They are, in his phrase, wicked -- open-ended and intrinsically controversial, resistant to closure, reshaped by every attempt to resolve them. But Rittel did not stop at the diagnosis. What interested him was what followed from it: that because design problems cannot be closed by logic or evidence alone, the process of designing is unavoidably an argumentative process. The designer debates with herself, or with others. Issues arise. Competing positions form. Arguments are assembled for and against each position. Eventually a judgment is made; not derivable from the evidence alone, but made despite its incompleteness, under the pressure of time and the weight of the stakes involved.
 
@@ -57,6 +57,8 @@ The image of design that the AI displacement argument offers is of a profession 
 
 Generative systems will produce more and more plausible-looking resolutions. The profession's task is to remain the part of the process that asks whether those resolutions address the right problems, argued for the right reasons, on behalf of the right people. That task does not diminish as the generation becomes more fluent. If anything, it becomes more necessary; because fluency, unaccompanied by argument, is not design. It is the appearance of design, which is a different thing entirely, and a considerably more dangerous one.
 
+In the [next essay](/articles/the-quarrel-that-ai-reopened/), I go back one step further, to the quarrel from which Rittel's position emerged, and to the man on the other side of it.
+
 ---
 
 ### Notes
@@ -64,3 +66,7 @@ Generative systems will produce more and more plausible-looking resolutions. The
 [1] The observation that AI-generated outputs render prior design decisions invisible; and that this invisibility creates pressure to accept those decisions without examination; is structurally identical to the problem Rittel identified with first-generation design methods: the illusion that a rational process can produce a determinate solution, obscuring the political judgments that shaped it. The difference is one of speed and surface finish. The problem is the same.
 
 [2] Rittel's Issue-Based Information System (IBIS) was developed together with Werner Kunz and first published in 1970, with the argumentative model of design reasoning elaborated through the 1970s and formalised in "The Reasoning of Designers" (1987, published Stuttgart 1988). The IBIS notation; issues, positions, arguments; was subsequently implemented in digital form as gIBIS (Graphical Issue-Based Information System) in the late 1980s and influenced the design rationale research programme that extended through the 1990s, producing tools including QOC (Questions, Options, Criteria) and a substantial body of work on how design reasoning is documented, or fails to be. The core insight; that the argumentation is the process and the rationale is its record; remains largely unimplemented in mainstream practice, which continues to document outputs rather than deliberations.
+
+### Essays In The Series
+
+[Index of essays on design practice in the age of generative AI](/articles/essays-on-design-practice-in-the-age-of-gen-ai/)

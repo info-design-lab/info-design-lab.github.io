@@ -1,5 +1,5 @@
 ---
-title: "The Quarrel That AI Reopened"
+title: "III. The Quarrel That AI Reopened"
 date: 2026-06-16
 summary: "On why a fifty-year-old argument in design theory has suddenly become a practical question."
 linkedin_url: "https://www.linkedin.com/pulse/quarrel-ai-reopened-venkatesh-rajamanickam-ffdsf"
@@ -13,7 +13,7 @@ source: "LinkedIn"
 
 ### On why a fifty-year-old argument in design theory has suddenly become a practical question.
 
-Note: This essay extends a series. The [The Brief Always Arrives Wrong](/articles/the-brief-always-arrives-wrong/) argued that design's most consequential work is the constituting of problems, not the production of artefacts. [The Web of Issues](/articles/the-web-of-issues/) drew on Horst Rittel to argue that the design process is irreducibly argumentative. This essay goes back one step further, to the quarrel from which Rittel's position emerged, and to the man on the other side of it.
+<i>Note: This essay extends a series. The [The Brief Always Arrives Wrong](/articles/the-brief-always-arrives-wrong/) argued that design's most consequential work is the constituting of problems, not the production of artefacts. [The Web of Issues](/articles/the-web-of-issues/) drew on Horst Rittel to argue that the design process is irreducibly argumentative. This essay goes back one step further, to the quarrel from which Rittel's position emerged, and to the man on the other side of it.</i>
 
 
 In 1969 Herbert Simon published The Sciences of the Artificial, a small book with an enormous ambition: to establish design as a rigorous science. Simon was perhaps the most formidable polymath of his century; an economist who would win the Nobel Prize, a founder of artificial intelligence, a cognitive psychologist, an administrator and theorist of organisations. His claim was that design is not the special preserve of architects and engineers but the core of all professional activity. Everyone designs, he wrote, who "devises courses of action aimed at changing existing situations into preferred ones." The doctor designing a treatment, the manager designing a policy, the teacher designing a curriculum: all of them, on Simon's account, are doing the same kind of thing, and that thing can be studied, formalised, and taught [1].
@@ -48,7 +48,7 @@ Or consider a government team using a generative tool to draft a benefits eligib
 
 This is the pattern the previous essay called closing issues without opening them, and the quarrel explains why it is not an accident of immature tools. It is the position Simon's side of the argument takes, made operational. The closure does not happen during the search, where it might be noticed. It happens in the construction of the space the search runs in, before the first token is generated, invisibly, by no one.
 
-> Simon governs the inside of the problem space. Rittel governs the drawing of it. The machines have industrialised the inside; the outside remains where it always was: between people, in rooms, answerable.
+<blockquote style="font-size: 1.2rem; font-style: normal;">Simon governs the inside of the problem space. Rittel governs the drawing of it. The machines have industrialised the inside; the outside remains where it always was: between people, in rooms, answerable.</blockquote>
 
 ### The Jurisdictional Settlement
 
@@ -60,7 +60,7 @@ The profession's task follows directly. It is not to compete with the search; th
 
 The brief always arrives wrong; the issues it contains must be argued rather than optimised. The quarrel between Simon and Rittel tells us why the new tools, however fluent, are not neutral in that argument. They take a side. And the side they take is the one design theory spent half a century learning to distrust; not because it is useless, but because it is incomplete in exactly the place where the consequences live.
 
-The [next essay]((/articles/the-web-of-issues/)) takes the quarrel down to its sharpest point of contact, on how designers decide that the designing is done.
+The [next essay](/articles/two-stopping-rules/) takes the quarrel down to its sharpest point of contact, on how designers decide that the designing is done.
 
 
 ### Notes
@@ -70,3 +70,7 @@ The [next essay]((/articles/the-web-of-issues/)) takes the quarrel down to its s
 [2] The coincidence of dates is striking and underexamined: Rittel and Webber's "Dilemmas in a General Theory of Planning" appeared in Policy Sciences in 1973, the same year Simon's "The Structure of Ill-Structured Problems" appeared in Artificial Intelligence. The two papers do not cite each other, but they answer each other almost line by line, and they fix the two poles between which design theory has oscillated since. That Simon published his side in an artificial intelligence journal is, in retrospect, the detail that mattered most.
 
 [3] The lineage from Simon and Newell's General Problem Solver (1957 onwards) to contemporary generative systems is not a straight line; the connectionist methods underlying modern models were for decades the rival camp to Simon's symbolic approach. But the framing survived the change of machinery: a problem is a space, designing is searching it, and the goal is a satisfactory point within it. On that framing, the two camps never disagreed.
+
+### Essays In The Series
+
+[Index of essays on design practice in the age of generative AI](/articles/essays-on-design-practice-in-the-age-of-gen-ai/)
