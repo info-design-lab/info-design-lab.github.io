@@ -27,7 +27,7 @@ Consider the design of a notification system for a mobile application. The state
 
 This is not failure. It is the normal condition of an interaction design problem in progress. The issues are not embarrassing gaps to be papered over; they are the actual substance of the work. A designer who moves from brief to wireframe without passing through this territory has not avoided the web; she has left its issues unexamined, where they will reappear later; in user testing, in a product review, in the support queue, in the slow decline of a feature that nobody turns off because nobody turns anything on.
 
-A designer who moves from brief to wireframe without passing through the web of issues has not avoided the arguments. She has merely deferred them to a point where they are more expensive to resolve.
+<blockquote style="font-size: 1.2rem; font-style: normal;">A designer who moves from brief to wireframe without passing through the web of issues has not avoided the arguments. She has merely deferred them to a point where they are more expensive to resolve.</blockquote>
 
 ### Closing Is a Political Act
 
