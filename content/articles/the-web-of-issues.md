@@ -11,6 +11,8 @@ source: "LinkedIn"
 
 <p class="article-read-link"><a href="https://www.linkedin.com/pulse/web-issues-venkatesh-rajamanickam-nxo9f/" target="_blank" rel="noreferrer">Read on LinkedIn</a></p>
 
+![The Web of Issues](/articles/images/the-web-of-issues.png "Photo of Rittel while teaching at Ulm (Spitz 287)")
+
 ### On design as argumentation, and why the process is the work.
 
 <i>Note: This essay began as a footnote to the previous essay [The Brief Always Arrives Wrong](/articles/the-brief-always-arrives-wrong/), and refused to stay one.</i>

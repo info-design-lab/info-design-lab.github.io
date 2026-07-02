@@ -11,6 +11,8 @@ source: "LinkedIn"
 
 <p class="article-read-link"><a href="https://www.linkedin.com/pulse/brief-always-arrives-wrong-venkatesh-rajamanickam-t7wjf/" target="_blank" rel="noreferrer">Read on LinkedIn</a></p>
 
+![The Brief Always Arrives Wrong](/articles/images/the-brief-always-arrives-wrong.jpeg)
+
 ### On why the profession will not run out of work simply because machines have learned to make things.
 
 There is a demonstration that circulates in studios and lecture theatres, and it tends to land with the force of an argument even though it is only a performance. Someone opens a tool, types a sentence, and within seconds produces logo concepts, UI screens, a brand colour system with rationale attached. The implication settles without being stated: look what the machine can do; look what you are no longer needed to do. The conclusion; that designers face displacement; is treated as too obvious to require defending.

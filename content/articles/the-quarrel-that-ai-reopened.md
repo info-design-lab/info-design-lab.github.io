@@ -11,6 +11,8 @@ source: "LinkedIn"
 
 <p class="article-read-link"><a href="https://www.linkedin.com/pulse/quarrel-ai-reopened-venkatesh-rajamanickam-ffdsf" target="_blank" rel="noreferrer">Read on LinkedIn</a></p>
 
+![The Quarrel That AI Reopened](/articles/images/the-quarrel-that-ai-reopened.jpeg "Herbert Simon (left) in a chess match against Allen Newell")
+
 ### On why a fifty-year-old argument in design theory has suddenly become a practical question.
 
 <i>Note: This essay extends a series. The [The Brief Always Arrives Wrong](/articles/the-brief-always-arrives-wrong/) argued that design's most consequential work is the constituting of problems, not the production of artefacts. [The Web of Issues](/articles/the-web-of-issues/) drew on Horst Rittel to argue that the design process is irreducibly argumentative. This essay goes back one step further, to the quarrel from which Rittel's position emerged, and to the man on the other side of it.</i>

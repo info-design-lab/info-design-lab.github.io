@@ -1,5 +1,5 @@
 ---
-title: "IV. Two Stopping Rule"
+title: "IV. Two Stopping Rules"
 date: 2026-06-21
 summary: "On how designers decide that the designing is done."
 linkedin_url: "https://www.linkedin.com/pulse/two-stopping-rules-venkatesh-rajamanickam-vaxnf"
@@ -10,6 +10,8 @@ source: "LinkedIn"
 {{< article-byline >}}
 
 <p class="article-read-link"><a href="https://www.linkedin.com/pulse/two-stopping-rules-venkatesh-rajamanickam-vaxnf" target="_blank" rel="noreferrer">Read on LinkedIn</a></p>
+
+![Two Stopping Rules](/articles/images/two-stopping-rules.jpeg "Press room in The Times of India office in Bombay, 1898")
 
 ### On how designers decide that the designing is done.
 

@@ -11,6 +11,8 @@ source: "LinkedIn"
 
 <p class="article-read-link"><a href="https://www.linkedin.com/pulse/resolution-argument-venkatesh-rajamanickam-awnuf/" target="_blank" rel="noreferrer">Read on LinkedIn</a></p>
 
+![The Resolution of the Argument](/articles/images/the-resolution-of-the-argument.jpeg "B.V. Doshi's concept sketch for the Aranya Social Housing project")
+
 ### On sketches, prompts, and the level of abstraction at which design arguments live.
 
 <i>Note: This essay continues a series. [The Brief Always Arrives Wrong](/articles/the-brief-always-arrives-wrong/) argued that design's most consequential work is the constituting of problems. [The Web of Issues](/articles/the-web-of-issues/) drew on Horst Rittel to argue that the design process is irreducibly argumentative. [The Quarrel That AI Reopened](/articles/the-quarrel-that-ai-reopened/) set Rittel against Herbert Simon; [Two Stopping Rules](/articles/two-stopping-rules/) examined how the work ends. This essay grew out of a conversation with my colleague Kartikeya Date for which I am grateful. It returns to the web of issues and asks a question the earlier essay left unexamined: what are the issues, positions, and arguments made of? </i>
