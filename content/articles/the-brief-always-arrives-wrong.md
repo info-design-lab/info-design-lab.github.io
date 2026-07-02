@@ -35,7 +35,7 @@ Interface design followed the same logic. When prototyping tools made clickable 
 
 Generative AI is already exhibiting this at the concept stage. The capacity to produce twenty visual directions in an afternoon does not compress the concept phase; it expands the option space to a point where clients want to explore more of it, where disagreements a narrower set would have suppressed, now become visible and require resolution. The easier the making, the harder the deciding. Deciding is what designers are for. [1]
 
-<blockquote style="font-size: 1.2rem; font-style: normal;">The most consequential design decisions often produce no visible artefact. They produce clarity about what not to make, and why the stated problem is not the real one.</blockquote>
+> The most consequential design decisions often produce no visible artefact. They produce clarity about what not to make, and why the stated problem is not the real one.
 
 ### A Position Requires Someone to Hold It
 

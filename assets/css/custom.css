@@ -54,6 +54,12 @@ body {
   border-bottom: 1px solid #9b1c1c; /* Adds a sophisticated thin underline only on hover */
 }
 
+.content .subheading-anchor {
+    display: inline-block;
+    width: 0;
+    overflow: visible;
+}
+
 .content h3 {
   margin-top: 2.25rem;
   margin-bottom: 0.8rem;

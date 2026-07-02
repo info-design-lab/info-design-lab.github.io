@@ -48,7 +48,7 @@ Or consider a government team using a generative tool to draft a benefits eligib
 
 This is the pattern the previous essay called closing issues without opening them, and the quarrel explains why it is not an accident of immature tools. It is the position Simon's side of the argument takes, made operational. The closure does not happen during the search, where it might be noticed. It happens in the construction of the space the search runs in, before the first token is generated, invisibly, by no one.
 
-<blockquote style="font-size: 1.2rem; font-style: normal;">Simon governs the inside of the problem space. Rittel governs the drawing of it. The machines have industrialised the inside; the outside remains where it always was: between people, in rooms, answerable.</blockquote>
+> Simon governs the inside of the problem space. Rittel governs the drawing of it. The machines have industrialised the inside; the outside remains where it always was: between people, in rooms, answerable.
 
 ### The Jurisdictional Settlement
 

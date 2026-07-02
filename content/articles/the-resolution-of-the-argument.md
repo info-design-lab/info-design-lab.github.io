@@ -41,7 +41,7 @@ At the output, the artefact arrives at the wrong level of abstraction for the st
 
 Between these two ends, the middle band of representation, the dense, ambiguous, lateral-supporting territory where Goldschmidt's designers discovered their positions and Goel's designers found their alternatives, is squeezed toward nothing; not by any decision, but by convenience. Text in and renders out is simply the easiest way to use the tools. The web of issues does not stop existing in such a practice. It gets conducted in representations that can only close it.
 
-<blockquote style="font-size: 1.2rem; font-style: normal;">A sketch-styled render is a fully determinate representation wearing the costume of an open one. The roughness carries no information about what is unsettled, because nothing is unsettled.</blockquote>
+> A sketch-styled render is a fully determinate representation wearing the costume of an open one. The roughness carries no information about what is unsettled, because nothing is unsettled.
 
 ### Decorative Ambiguity
 

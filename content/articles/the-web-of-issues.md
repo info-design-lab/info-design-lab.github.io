@@ -27,7 +27,7 @@ Consider the design of a notification system for a mobile application. The state
 
 This is not failure. It is the normal condition of an interaction design problem in progress. The issues are not embarrassing gaps to be papered over; they are the actual substance of the work. A designer who moves from brief to wireframe without passing through this territory has not avoided the web; she has left its issues unexamined, where they will reappear later; in user testing, in a product review, in the support queue, in the slow decline of a feature that nobody turns off because nobody turns anything on.
 
-<blockquote style="font-size: 1.2rem; font-style: normal;">A designer who moves from brief to wireframe without passing through the web of issues has not avoided the arguments. She has merely deferred them to a point where they are more expensive to resolve.</blockquote>
+> A designer who moves from brief to wireframe without passing through the web of issues has not avoided the arguments. She has merely deferred them to a point where they are more expensive to resolve.
 
 ### Closing Is a Political Act
 
@@ -58,8 +58,6 @@ The image of design that the AI displacement argument offers is of a profession 
 Generative systems will produce more and more plausible-looking resolutions. The profession's task is to remain the part of the process that asks whether those resolutions address the right problems, argued for the right reasons, on behalf of the right people. That task does not diminish as the generation becomes more fluent. If anything, it becomes more necessary; because fluency, unaccompanied by argument, is not design. It is the appearance of design, which is a different thing entirely, and a considerably more dangerous one.
 
 In the [next essay](/articles/the-quarrel-that-ai-reopened/), I go back one step further, to the quarrel from which Rittel's position emerged, and to the man on the other side of it.
-
----
 
 ### Notes
 
