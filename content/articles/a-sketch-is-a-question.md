@@ -80,3 +80,7 @@ A sketch is a question. A prototype is an answer. A generated artefact is an ans
 [4] SILK is due to James Landay and Brad Myers in the mid-nineties; DENIM to Lin, Newman, Hong and Landay at CHI 2001. Both systems recognised electronic beautification as a threat to early design conversation and engineered against it. Their intellectual kinship with the failure of formal design-rationale capture, recorded in the previous essay through Shipman and Marshall's "Formality Considered Harmful," is direct: the same premature determinacy, arriving through a different door.
 
 [5] Pelle Ehn, Work-Oriented Design of Computer Artifacts (1988), reporting among other things the UTOPIA project's cardboard and plywood mock-ups, built with and for newspaper typographers. The tradition's insight, that the accessibility of the representation determines who may participate in the argument, is Rittel's second ground made tactile: if the knowledge a wicked problem requires is distributed, the representations of the problem must be alterable by the people among whom it is distributed.
+
+### Essays In The Series
+
+[Index of essays on design practice in the age of generative AI](/articles/essays-on-design-practice-in-the-age-of-gen-ai/)
