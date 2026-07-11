@@ -1,6 +1,6 @@
 ---
 title: "Essays on design practice in the age of generative AI"
-date: 2026-06-28
+date: 2026-07-07
 summary: "Essays on design practice in the age of generative AI."
 author: "Venkatesh Rajamanickam"
 ---
@@ -39,7 +39,7 @@ VI. [A Sketch Is a Question](/articles/a-sketch-is-a-question/)
 On keeping the issues open when the artefact behaves.
 A direct sequel to The Resolution of the Argument, carried into interaction design: a field whose subject matter is behaviour, whose behaviour never had a native sketch, and whose prototyping repertoire, from the paper prototype to the Wizard of Oz, was a fifty-year project to manufacture the ambiguous middle that generative tools now collapse. A sketch asks, a prototype answers, and a generated artefact is an answer arriving before the question.
 
-<b>Declaration of AI Use in the Writing Process</b>
+<p style="color: #5d4037; font-size: 1.2rem;">Declaration of AI Use in the Writing Process</p>
 
 There is, interestingly, a close parallel between how I write and the ideas these essays explore, it is useful to describe that process. Before the AI tools, testing an idea was expensive. I would spend weeks reading, sketching arguments, and searching for flaws. Often the idea proved to be a dead end or, worse, something someone else had already published. That investment created sunk-cost bias. I chose safer questions and clung to failing ideas because abandoning them meant writing off weeks of work.
 
