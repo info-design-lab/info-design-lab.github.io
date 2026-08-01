@@ -1,6 +1,6 @@
 ---
 title: "Essays on design practice in the age of generative AI"
-date: 2026-07-07
+date: 2026-07-27
 summary: "Essays on design practice in the age of generative AI."
 author: "Venkatesh Rajamanickam"
 ---
@@ -38,6 +38,10 @@ Through Gabriela Goldschmidt and Vinod Goel, this essay shows that the web of is
 VI. [A Sketch Is a Question](/articles/a-sketch-is-a-question/)
 On keeping the issues open when the artefact behaves.
 A direct sequel to The Resolution of the Argument, carried into interaction design: a field whose subject matter is behaviour, whose behaviour never had a native sketch, and whose prototyping repertoire, from the paper prototype to the Wizard of Oz, was a fifty-year project to manufacture the ambiguous middle that generative tools now collapse. A sketch asks, a prototype answers, and a generated artefact is an answer arriving before the question.
+
+VII. [No Ultimate Test](/articles/no-ultimate-test/)
+On why the adequacy of a generated design cannot be verified, even in principle.
+The closures embedded in a generated artefact are not merely undocumented but unknowable, because no deliberation ever occurred and asking the system why produces an answer with the same status as the artefact; what remains, as it always was, is someone answerable.
 
 <p style="color: #5d4037; font-size: 1.2rem;">Declaration of AI Use in the Writing Process</p>
 
