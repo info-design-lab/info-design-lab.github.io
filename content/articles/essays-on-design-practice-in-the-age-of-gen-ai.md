@@ -1,6 +1,6 @@
 ---
 title: "Essays on design practice in the age of generative AI"
-date: 2026-07-27
+date: 2026-08-23
 summary: "Essays on design practice in the age of generative AI."
 author: "Venkatesh Rajamanickam"
 ---
@@ -42,6 +42,10 @@ A direct sequel to The Resolution of the Argument, carried into interaction desi
 VII. [No Ultimate Test](/articles/no-ultimate-test/)
 On why the adequacy of a generated design cannot be verified, even in principle.
 The closures embedded in a generated artefact are not merely undocumented but unknowable, because no deliberation ever occurred and asking the system why produces an answer with the same status as the artefact; what remains, as it always was, is someone answerable.
+
+VIII. [Into a Future That Talks Back](/articles/into-a-future-that-talks-back/)
+On design as a one-shot intervention into a world the intervention itself remakes.
+A design acts on a future it cannot test, cannot reverse, and helps bring about; its second and third order effects surface only after a delay long enough to sever them from their cause, and generative tools carry the foreclosures of a thousand past paths forward as live, invisible traces.
 
 <p style="color: #5d4037; font-size: 1.2rem;">Declaration of AI Use in the Writing Process</p>
 
