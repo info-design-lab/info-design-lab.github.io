@@ -109,9 +109,10 @@ We work in an interdisciplinary, collaborative atmosphere with partners from aca
 	<dl>
 	<dl>
     <dt>
-    Can User Awareness through Visual Feedback increase the Tolerable Delay in VoIP Calls?</dt>
+	<a href="https://dl.acm.org/doi/10.1145/3821581.3833131" target="_blank">
+    Can User Awareness through Visual Feedback increase the Tolerable Delay in VoIP Calls?</a></dt>
     <dd>By Heinsamding Thou, Arindam Kishore Dutta, Bhaskaran Raman, Venkatesh Rajamanickam
-    <br />Published in Proceedings of the ACM on Human-Computer Interaction (PACMHCI), <a href="https://mobilehci.acm.org/2026/" target="_blank">MobileHCI 2026</a>.
+    <br />Published in Proceedings of the ACM on Human-Computer Interaction (PACMHCI), <a href="https://mobilehci.acm.org/2026/" target="_blank">MobileHCI 2026</a>. DOI: <a href="https://dl.acm.org/doi/10.1145/3821581.3833131" target="_blank">10.1145/3821581.3833131</a>
     </dd>
     </dl>
 	<dl>
